@@ -56,7 +56,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|118365000|72695000|ff2a27d7-d3dc-47f2-98d7-51a567bf2862|c80a6439-f39f-4ac9-982b-765071c9df96|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -409,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PrawnDO_Breakout_Connectorized.kicad_pro",
+    "filename": "PrawnDO_Breakout_Connectorized_major changes.kicad_pro",
     "version": 1
   },
   "net_settings": {
