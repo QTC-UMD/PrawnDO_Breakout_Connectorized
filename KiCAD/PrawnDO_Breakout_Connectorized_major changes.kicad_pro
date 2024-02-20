@@ -56,9 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "starved_thermal|118365000|72695000|ff2a27d7-d3dc-47f2-98d7-51a567bf2862|c80a6439-f39f-4ac9-982b-765071c9df96|F.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -490,20 +488,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "CPW_FR1",
-        "pattern": "do*"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "3_3V_Pico"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "GND"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
