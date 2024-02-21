@@ -2957,6 +2957,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 99.06 44.45 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 0e34093c-5c22-4dad-a543-9de10031c415)
+    (property "Reference" "#PWR058" (at 99.06 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 99.06 39.37 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 99.06 44.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 99.06 44.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e5c707c1-10d1-43c7-ba67-fbb0b55e47d1))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR058") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 121.92 147.32 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 10f86163-117a-48e5-afa0-7fdd854a3764)
@@ -3257,6 +3282,32 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "#PWR036") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 99.06 48.26 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 25dc23cc-9eb0-4dcf-87ac-5d26024f09a2)
+    (property "Reference" "JR3" (at 101.6 46.99 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "0" (at 101.6 49.53 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 97.282 48.26 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 99.06 48.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3728e1b8-19b2-4f32-ad54-9ca4335f5b9f))
+    (pin "2" (uuid 756291b1-376c-47be-aef7-65e405dbd483))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "JR3") (unit 1)
         )
       )
     )
@@ -3662,6 +3713,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 90.7777 47.6211 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 3b0a8487-9ece-4fe5-8c95-7d0d3491188b)
+    (property "Reference" "#PWR056" (at 90.7777 41.2711 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 90.7777 42.5411 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 90.7777 47.6211 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 90.7777 47.6211 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a5f888fe-7b28-4adf-925a-e780106bf405))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR056") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 170.18 85.09 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3be4f45a-9667-4348-a75d-0dffd8cd610d)
@@ -3917,6 +3993,57 @@
     )
   )
 
+  (symbol (lib_id "Device:R") (at 116.205 43.815 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4750e496-fa48-4475-a8e3-03fa897e330a)
+    (property "Reference" "JR4" (at 118.745 42.545 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "0" (at 118.745 45.085 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 114.427 43.815 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 116.205 43.815 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cd28cbd0-a892-479d-b245-dfdd4847896a))
+    (pin "2" (uuid 2c18e965-6bb6-48f3-85df-e91000417ebb))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "JR4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 116.205 47.625 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 47fbb084-31c1-448e-94ae-b49561dc43e1)
+    (property "Reference" "#PWR061" (at 116.205 53.975 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 116.205 52.705 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 116.205 47.625 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 116.205 47.625 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e45a9740-800f-4f0d-bd44-128df429e74f))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR061") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 176.53 125.73 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b84b789-e9f2-418d-a1cb-bb01508564f6)
@@ -3938,6 +4065,31 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "C5") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 116.205 40.005 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4d4d4561-f828-430e-82d0-2e5f961164da)
+    (property "Reference" "#PWR060" (at 116.205 33.655 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 116.205 34.925 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 116.205 40.005 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 116.205 40.005 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7e3875a1-2c71-4130-90fc-319846ce3d20))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -4014,6 +4166,31 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "#PWR015") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 126.365 38.735 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 54c50074-67f5-4d4c-86ef-d942c1993705)
+    (property "Reference" "#PWR062" (at 126.365 32.385 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 126.365 33.655 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 126.365 38.735 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 126.365 38.735 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d44aaff7-1065-4f18-9f4e-b746a3f50e43))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -4250,6 +4427,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 99.06 52.07 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6c557c76-f32f-4525-9a12-aee00ca20210)
+    (property "Reference" "#PWR059" (at 99.06 58.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 99.06 57.15 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 99.06 52.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 99.06 52.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b73d0cc0-e012-4136-b1cd-a3f4e9c503d8))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR059") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 161.29 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 700883ca-ec2b-4833-82b1-07470c142373)
@@ -4296,6 +4498,32 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "J6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 90.7777 51.4311 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 70508013-d7d7-4353-a623-8c3323e73d1c)
+    (property "Reference" "JR2" (at 93.3177 50.1611 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "0" (at 93.3177 52.7011 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 88.9997 51.4311 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 90.7777 51.4311 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e1688015-14d1-4147-a167-60a246fdd7e3))
+    (pin "2" (uuid 1e49c0dd-52b1-44a2-b345-5e24e1be5fbd))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "JR2") (unit 1)
         )
       )
     )
@@ -4450,6 +4678,32 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "R7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 126.365 42.545 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 8121b156-269c-48d0-8cee-30ec1635b159)
+    (property "Reference" "JR5" (at 128.905 41.275 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "0" (at 128.905 43.815 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 124.587 42.545 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 126.365 42.545 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 19258772-a970-4e8e-b041-bbd1bbd852b5))
+    (pin "2" (uuid 78b63fd2-27fc-4cc4-94cd-7bc373668975))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "JR5") (unit 1)
         )
       )
     )
@@ -5433,6 +5687,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 90.7777 55.2411 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid bc453689-69ab-40ba-8cf4-4119321ed164)
+    (property "Reference" "#PWR057" (at 90.7777 61.5911 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 90.7777 60.3211 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 90.7777 55.2411 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 90.7777 55.2411 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9edbb3ad-8acc-41ad-b388-182037454053))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR057") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 168.91 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfab95d3-4124-4a52-818a-00fb347e4b28)
@@ -5609,6 +5888,31 @@
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
           (reference "#PWR046") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 126.365 46.355 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid cff65523-c124-4ac8-a126-ead8da9de38b)
+    (property "Reference" "#PWR063" (at 126.365 52.705 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 126.365 51.435 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 126.365 46.355 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 126.365 46.355 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9aa77d88-577c-474a-bb03-71d8b86af1a4))
+    (instances
+      (project "PrawnDO_Breakout_Connectorized_major changes"
+        (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
+          (reference "#PWR063") (unit 1)
         )
       )
     )
