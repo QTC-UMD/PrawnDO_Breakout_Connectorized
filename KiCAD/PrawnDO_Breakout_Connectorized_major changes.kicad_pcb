@@ -52,8 +52,8 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
-    (aux_axis_origin 67.9 138.3)
-    (grid_origin 67.9 138.3)
+    (aux_axis_origin 67.9 141)
+    (grid_origin 67.9 141)
     (pcbplotparams
       (layerselection 0x0001000_7fffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
