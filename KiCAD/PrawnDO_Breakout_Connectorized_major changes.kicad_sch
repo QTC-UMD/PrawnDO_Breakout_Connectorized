@@ -3296,7 +3296,7 @@
     (property "Value" "0" (at 101.6 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 97.282 48.26 90)
+    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (at 97.282 48.26 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.06 48.26 0)
@@ -3507,8 +3507,8 @@
     (property "Datasheet" "~" (at 160.02 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 60db19b2-1446-4521-ad56-e1445e9517ca))
     (pin "1" (uuid 6b071dfc-82ae-4e20-a9de-e6e27c5c54f7))
+    (pin "2" (uuid 60db19b2-1446-4521-ad56-e1445e9517ca))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -3702,8 +3702,8 @@
     (property "Datasheet" "~" (at 167.64 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 3b9907ce-9214-442e-8996-0595c37cc37c))
     (pin "1" (uuid 14eed43d-1f59-4c5f-96ac-761d6db0e2ac))
+    (pin "2" (uuid 3b9907ce-9214-442e-8996-0595c37cc37c))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -4002,7 +4002,7 @@
     (property "Value" "0" (at 118.745 45.085 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 114.427 43.815 90)
+    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (at 114.427 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 116.205 43.815 0)
@@ -4211,8 +4211,8 @@
     (property "Datasheet" "~" (at 153.67 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 270288d5-e4a1-49d2-be5d-11b823e08471))
     (pin "1" (uuid d3b36232-7511-4edd-bef4-9e7b16511e5f))
+    (pin "2" (uuid 270288d5-e4a1-49d2-be5d-11b823e08471))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -4512,7 +4512,7 @@
     (property "Value" "0" (at 93.3177 52.7011 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 88.9997 51.4311 90)
+    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (at 88.9997 51.4311 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.7777 51.4311 0)
@@ -4570,8 +4570,8 @@
     (property "Datasheet" "~" (at 152.4 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 726e032e-a665-4cde-a640-7902913f56e6))
     (pin "1" (uuid 72e00041-0d4d-4f41-b194-1fdc8adb6e21))
+    (pin "2" (uuid 726e032e-a665-4cde-a640-7902913f56e6))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -4692,7 +4692,7 @@
     (property "Value" "0" (at 128.905 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 124.587 42.545 90)
+    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (at 124.587 42.545 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 126.365 42.545 0)
@@ -4963,7 +4963,7 @@
     (property "Value" "0" (at 109.22 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 104.902 46.99 90)
+    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (at 104.902 46.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 106.68 46.99 0)
@@ -5293,8 +5293,8 @@
     (property "Datasheet" "~" (at 157.48 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 3cc046a3-65d6-4369-a743-d618d9da04db))
     (pin "1" (uuid 3b1cfb75-0252-43c3-b22d-67430847f088))
+    (pin "2" (uuid 3cc046a3-65d6-4369-a743-d618d9da04db))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5395,8 +5395,8 @@
     (property "Datasheet" "~" (at 166.37 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 44ff083c-468a-40cb-ad6d-4fb72f6d3c45))
     (pin "1" (uuid 0f340958-7213-4ddc-a283-c709ae5d29a1))
+    (pin "2" (uuid 44ff083c-468a-40cb-ad6d-4fb72f6d3c45))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5421,8 +5421,8 @@
     (property "Datasheet" "~" (at 156.21 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 1d39bbfa-c415-44b4-9741-066fd22984ec))
     (pin "1" (uuid 064ca215-5ee2-4ae3-8243-434a8aa7b8fa))
+    (pin "2" (uuid 1d39bbfa-c415-44b4-9741-066fd22984ec))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5499,8 +5499,8 @@
     (property "Datasheet" "~" (at 133.35 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 1cfe1871-c121-4318-a344-75aa43e09ec0))
     (pin "1" (uuid 45f8dc81-8395-4146-9ad2-22a0125d1e9b))
+    (pin "2" (uuid 1cfe1871-c121-4318-a344-75aa43e09ec0))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5651,8 +5651,8 @@
     (property "Datasheet" "~" (at 139.7 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid e25b7b2e-55b8-4cee-b74d-39e0c1a83369))
     (pin "1" (uuid 37ad0d14-9cc1-47d8-9985-fd65e52cdb00))
+    (pin "2" (uuid e25b7b2e-55b8-4cee-b74d-39e0c1a83369))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5959,8 +5959,8 @@
     (property "Datasheet" "~" (at 161.29 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 92078df8-5417-4065-8c31-ff7689701c95))
     (pin "1" (uuid 3ecf156b-5ac9-43fd-a9a9-962c68e5c0ed))
+    (pin "2" (uuid 92078df8-5417-4065-8c31-ff7689701c95))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -5985,8 +5985,8 @@
     (property "Datasheet" "~" (at 165.1 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 4236c9cf-aaa7-4162-85f3-ab2fec19aa00))
     (pin "1" (uuid 5119ea5c-4f05-4fbc-9f55-c664c142ce38))
+    (pin "2" (uuid 4236c9cf-aaa7-4162-85f3-ab2fec19aa00))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -6359,8 +6359,8 @@
     (property "Datasheet" "~" (at 121.92 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 32d231da-ea31-4375-a0eb-55376762a827))
     (pin "1" (uuid 026161bd-6ed2-43b6-becc-3be97cede8c6))
+    (pin "2" (uuid 32d231da-ea31-4375-a0eb-55376762a827))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -6385,8 +6385,8 @@
     (property "Datasheet" "~" (at 138.43 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 948f5ed8-6ab7-4604-b17f-872ce212ec80))
     (pin "1" (uuid fa3947dd-e5b5-4e5e-b0b4-15f604bec8d7))
+    (pin "2" (uuid 948f5ed8-6ab7-4604-b17f-872ce212ec80))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
@@ -6464,8 +6464,8 @@
     (property "Datasheet" "~" (at 143.51 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 0f2164a5-90cb-4dfe-bba0-c7a6be714dea))
     (pin "1" (uuid 44254b6d-ac82-4c03-b212-2478642e2db5))
+    (pin "2" (uuid 0f2164a5-90cb-4dfe-bba0-c7a6be714dea))
     (instances
       (project "PrawnDO_Breakout_Connectorized_major changes"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194"
