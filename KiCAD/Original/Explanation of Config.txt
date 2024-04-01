@@ -1,0 +1,5 @@
+The only major changes I made on this configuration were some of the transmission line traces, adding holes to mount the Prawnblaster to the board, adding 10k resistors in front of chip 0, and moving said resistors much closer to their respective sma outputs. Other than that, this is the original design and layout as I saw it.
+
+
+
+-KJ
