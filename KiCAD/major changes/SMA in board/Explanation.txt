@@ -4,4 +4,4 @@ Also readded holes and made sure they'd sync up with Prawnblaster ("...smaller D
 
 Adding capability to switch between power sources (PICO or External) through use of a connector and a shunt
 
-Changed capacitors to 1210 footprint to make soldering by hand easier, but can easily be swapped out for smaller footprints should you have the means to use them
+Changed capacitors to 1210 footprint to make soldering by hand easier, but can easily be swapped out for smaller footprints should you have the means to use them. Bigger footprints will require a lil bit more forethought
