@@ -1,0 +1,7 @@
+The thought behind this iteration was to introduce two 74LVC1G17 with the SOT-23-5 package on the first and last output concurrently with the other 74LVC1G17s utilizing the SOT-23-6 package.
+
+The 6-pin chips would then be staggered so that one output pin would go to one SMA and the other output pin would go to another. This was devised in order to give the ground pin access to the ground plane.
+
+Only modified 4 of them to see if this would actually help solve the problem. It did, but introduced other problems with track routing.
+
+Something not carefully considered with this configuration was the calculations of track length differences between two chips which may have resulted in issues with the signal; in the end, this was never attempted, so it cannot be said whether or not that actually would cause an issue for this board.
