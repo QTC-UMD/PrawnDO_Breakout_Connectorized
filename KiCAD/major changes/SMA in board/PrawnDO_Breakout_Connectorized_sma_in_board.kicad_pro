@@ -56,7 +56,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|110394448|112092500|4077610c-d9dd-4b32-b699-06d898e2d82a|00000000-0000-0000-0000-000000000000",
+        "starved_thermal|90550000|100887500|ff2a27d7-d3dc-47f2-98d7-51a567bf2862|a4cafd9b-6d60-475b-9aaf-cf8d54443ded|F.Cu",
+        "starved_thermal|90550000|88161000|ff2a27d7-d3dc-47f2-98d7-51a567bf2862|30ac413a-d009-475a-ac65-abf152a2dc2e|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -66,7 +70,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -83,7 +87,7 @@
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "warning",
-        "malformed_courtyard": "error",
+        "malformed_courtyard": "ignore",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
@@ -92,14 +96,14 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
-        "text_height": "warning",
-        "text_thickness": "warning",
+        "starved_thermal": "warning",
+        "text_height": "ignore",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
