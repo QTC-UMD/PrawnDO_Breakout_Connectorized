@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "0020000_00000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PrawnDO_Breakout_Connectorized_single_buffers_3chips.kicad_prl",
+    "filename": "PrawnDO_Breakout_Connectorized_sma_in_board.kicad_prl",
     "version": 3
   },
   "project": {
