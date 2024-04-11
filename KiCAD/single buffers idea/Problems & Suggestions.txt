@@ -1,9 +1,0 @@
-All of these files play with the idea of using a single buffer (i.e. 74LVC1G17) for every output rather than a buffer with multiple outputs (i.e. 74LVT245D,118).
-
-The thought was that maybe the abberations in the signal could possibly be mitigated by using discreet chips rather than separate channels to drive the outputs.
-
-We wanted each buffer to have to inputs and two outputs, so we found the same chip we used in the other designs but in a different package (SOT-23-6); however the design of this package proved to be impractical and detrimental.
-
-Every chip we could find with this package tended to have the ground pin between the two input pins, so the ground pin would always be separated from the ground plane.
-
-Another problem encountered while trying to desing around this idea was the positioning of the chips lead to traces that were less than ideal; therefore, we abandoned this idea after several attempts at designing a board in this manner. That being said, if you reading this can devise a way to circumvent the problems listed above, we have left a skeleton for you modify as you see fit.

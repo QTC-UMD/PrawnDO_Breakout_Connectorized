@@ -1,1 +1,0 @@
-This iteration was to use 3 of the 74LVT245D,118 and 4 of the 74LVC1G17 in order to both save space and have a comparison for both situations on the same board. We abandoned the idea before I started actually designing, but the thought is still here should you be tempted to try it.
