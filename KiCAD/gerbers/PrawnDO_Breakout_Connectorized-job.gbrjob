@@ -3,13 +3,13 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.5"
+      "Version": "7.0.10"
     },
-    "CreationDate": "2024-04-11T17:45:55-04:00"
+    "CreationDate": "2024-04-15T15:58:18-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "PrawnDO_Breakout_Connectorized_sma_in_board",
+      "Name": "PrawnDO_Breakout_Connectorized",
       "GUID": "50726177-6e44-44f5-9f42-7265616b6f75",
       "Revision": "rev?"
     },
@@ -34,12 +34,12 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "PrawnDO_Breakout_Connectorized_sma_in_board-F_Cu.gbr",
+      "Path": "PrawnDO_Breakout_Connectorized-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PrawnDO_Breakout_Connectorized_sma_in_board-Edge_Cuts.gbr",
+      "Path": "PrawnDO_Breakout_Connectorized-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
