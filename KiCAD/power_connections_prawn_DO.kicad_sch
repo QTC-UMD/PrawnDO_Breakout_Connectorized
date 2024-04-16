@@ -671,7 +671,7 @@
     )
     (pin "1" (uuid 50d21148-52e8-472d-9666-436503ffbda1))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "#PWR037") (unit 1)
         )
@@ -718,7 +718,7 @@
     (pin "19" (uuid 85524b92-f91c-473e-857a-5539bb5d9cb5))
     (pin "20" (uuid ab948eb6-522f-457f-931d-fb5c7c196cdc))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "IC1") (unit 2)
         )
@@ -744,7 +744,7 @@
     (pin "1" (uuid bbfcca0c-51a7-45b5-9599-faaf4023aae3))
     (pin "2" (uuid 1b30c0b9-af7a-47bb-bb01-4d649e9c06c7))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "JR1") (unit 1)
         )
@@ -770,7 +770,7 @@
     (pin "1" (uuid af503107-e1f0-47c1-b47b-a96897a04a24))
     (pin "2" (uuid 36b87849-1b1c-472c-a1fa-00cd76a6469a))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C9") (unit 1)
         )
@@ -796,7 +796,7 @@
     (pin "1" (uuid 15715c35-9164-444e-b78a-5a7ab4e02aa5))
     (pin "2" (uuid acaedd10-9ffe-49df-9a3a-453d1cfe816e))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "JR3") (unit 1)
         )
@@ -822,7 +822,7 @@
     (pin "1" (uuid 8e6554bf-7641-4073-8552-07dbdeb01ad5))
     (pin "2" (uuid 13bf7d98-e81c-4d3d-91bd-0938b436f293))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C5") (unit 1)
         )
@@ -848,7 +848,7 @@
     (pin "1" (uuid d1e294ed-967e-45e5-a8bd-ff04f465b4d6))
     (pin "2" (uuid 4849d463-6fd5-47b9-82a2-1f71387993ce))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C7") (unit 1)
         )
@@ -895,7 +895,7 @@
     (pin "19" (uuid 99a328e8-dcba-463e-96d8-7070340356cd))
     (pin "20" (uuid 9f9bea3b-19f6-4723-94f0-abed83c5cd97))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "IC2") (unit 2)
         )
@@ -942,7 +942,7 @@
     (pin "19" (uuid 778d7db6-f98f-4a2d-96ac-8b0cd22778ca))
     (pin "20" (uuid 370b9f70-28f9-4405-8a3e-c982e7b0be10))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "IC4") (unit 2)
         )
@@ -968,7 +968,7 @@
     (pin "1" (uuid 20d24a30-373a-4db8-b6f0-c3cead3438f9))
     (pin "2" (uuid 250b6587-33e2-4b76-8040-a5c8795f2aee))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C10") (unit 1)
         )
@@ -994,7 +994,7 @@
     (pin "1" (uuid f776cfaa-75b9-4476-bfa5-1b2d53e62ff2))
     (pin "2" (uuid 03245d47-afcb-4b4f-8de0-d1ef8a000447))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "JR2") (unit 1)
         )
@@ -1020,7 +1020,7 @@
     (pin "1" (uuid 595ea3de-bba9-41c0-8af7-d587ade1e9fd))
     (pin "2" (uuid 493dc7a2-c146-45eb-bc8a-16d2d1aec7f3))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C6") (unit 1)
         )
@@ -1046,7 +1046,7 @@
     (pin "1" (uuid ef2a2a17-4400-4399-bd0e-2ffa104aa9bd))
     (pin "2" (uuid 63b23a45-0d0c-4796-9b45-e24411f72343))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "JR5") (unit 1)
         )
@@ -1072,7 +1072,7 @@
     (pin "1" (uuid 7582de19-23d2-42a6-b216-33be192b9300))
     (pin "2" (uuid c2c3b73e-3eba-4091-b86d-fc83a037af79))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C1") (unit 1)
         )
@@ -1097,7 +1097,7 @@
     )
     (pin "1" (uuid ed1ee19f-1a26-418b-8da2-680d8571e750))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "#PWR038") (unit 1)
         )
@@ -1123,7 +1123,7 @@
     (pin "1" (uuid 370f35d4-f215-4c3a-b0cc-c558fde10707))
     (pin "2" (uuid 53b9eb21-3748-4458-b0d7-d79e12460789))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C8") (unit 1)
         )
@@ -1149,7 +1149,7 @@
     (pin "1" (uuid c4a78d57-3fa4-4df3-a1eb-6ba6273f5d3c))
     (pin "2" (uuid 4968cd61-c09a-4d24-9c7c-ee8d529d265b))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "C4") (unit 1)
         )
@@ -1196,7 +1196,7 @@
     (pin "19" (uuid 6e87a52f-6d24-4147-9a7a-65a46d8a8dd1))
     (pin "20" (uuid ee3e051e-e715-4105-b6a7-8ab8ac85bb3b))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "IC3") (unit 2)
         )
@@ -1222,7 +1222,7 @@
     (pin "1" (uuid 0f0da47b-172d-4600-8d15-67a53b4f49d4))
     (pin "2" (uuid 3f33283c-f8a2-481a-b771-a28f7b302920))
     (instances
-      (project "PrawnDO_Breakout_Connectorized_sma_in_board"
+      (project "PrawnDO_Breakout_Connectorized"
         (path "/afe7a1c5-73e2-42c7-95cc-d8f50de6e194/19ec577a-8b03-4e61-8c59-aa8f06b2d188"
           (reference "JR4") (unit 1)
         )

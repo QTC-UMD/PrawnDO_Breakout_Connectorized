@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "0020000_00000001",
+    "visible_layers": "0021020_00000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PrawnDO_Breakout_Connectorized_sma_in_board.kicad_prl",
+    "filename": "PrawnDO_Breakout_Connectorized.kicad_prl",
     "version": 3
   },
   "project": {
