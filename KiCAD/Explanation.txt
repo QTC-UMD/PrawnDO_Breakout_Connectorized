@@ -1,7 +1,0 @@
-Biggest change is that the SMAs are now panel mounted rather than board mounted so there is less space required.
-
-Also readded holes and made sure they'd sync up with Prawnblaster ("...smaller DO/...mounting holes"
-
-Adding capability to switch between power sources (PICO or External) through use of a connector and a shunt
-
-Changed capacitors to 1210 footprint to make soldering by hand easier, but can easily be swapped out for smaller footprints should you have the means to use them. Bigger footprints will require a lil bit more forethought
